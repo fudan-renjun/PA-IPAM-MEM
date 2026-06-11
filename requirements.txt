@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+joblib
+matplotlib
+openpyxl
+python-docx
+biopython
+fastapi
+uvicorn
+python-multipart
