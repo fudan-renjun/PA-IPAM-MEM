@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software record."
+title: "PA-IPAM-MEM: mechanism-informed genomic warning gates for carbapenem MIC prediction in Pseudomonas aeruginosa"
+type: software
+authors:
+  - family-names: "Ren"
+    given-names: "Jun"
+version: "1.0.0"
+date-released: "2026-09-28"
+repository-code: "https://github.com/fudan-renjun/PA-IPAM-MEM"
+license: "MIT"
