@@ -63,3 +63,7 @@ The Feature Extractor web app additionally requires external command-line tools 
 ## Citation
 
 Please cite the associated manuscript when using this code or the web tools.
+
+## License
+
+The source code in this repository is distributed under the MIT License. See the LICENSE file for details.
